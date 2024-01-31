@@ -1,7 +1,14 @@
 Distribution (M) Zero or DMZ is a framework consisting of existing opensource and proprietary technologies which allows users to commoditize their compute, memory,
 bandwidth, metadata, behavioral data, carbon offsets and power (in watts). 
 
-The framework can allow or deny the sale of meta and behavioral data to the vendors of the users choice.
+The framework can enables the user to allow or deny the sale of meta and behavioral data (and other resources which belong to the user) to  vendors of the user's choice.
 
 The analytic and other products derived from the user owned data can only be consumed by the user (or other users if allowed) through commodity hardware but still 
 create an interactive and immersive experience.
+
+What makes DMZ special is the ability for users to use a component called ATLAS-Coding(d) to create their own schema (which belongs to the user) for coding their 
+behavioral and meta data allowing them to contribute to the creation of analytic and other products derived from their data.
+
+Coding(d) can also be used to code nearly any other information set and further used to train machine learning algorithms to speed up the
+process of analyzing information. This further allows users to quickly generate their own analytic products for sale to advertisers, 
+content creators and other interested people. 
