@@ -1,14 +1,78 @@
-Distribution (M) Zero or DMZ is a framework consisting of existing opensource and proprietary technologies which allows users to commoditize their compute, memory,
+Distribution (M) Zero or DMZ is a framework which can embody existing opensource and proprietary technologies (or new products).
+
+The DMZ framework is little more than a legal (license) which allows individuals to maintain ownership of resources (described below) which 
+rightfully belong to them.
+
+Specifically, DMZ allows individuals and organizations to package, license and commoditize their compute, memory,
 bandwidth, metadata, behavioral data, carbon offsets, power (in watts), variable caital (labor) and land capital (intellectual and physical property).
 
-The framework can enables the user to allow or deny the sale of meta and behavioral data (and other resources which belong to the user) to  vendors of the user's choice.
+By simply packaging their technology under this project the GNU license framework enables the user to allow or deny the sale of meta and behavioral data 
+(and other resources which belong to the user) to  vendors of the user's choice.
 
-The analytic and other products derived from the user owned data can only be consumed by the user (or other users if allowed) through commodity hardware but still 
-create an interactive and immersive experience.
+As an example, another open source project called Coding(d) can be added to this project. Coding(d) can be found here: https://github.com/atlas-opensource/atlas-codingd.
+A user can then use Coding(d) to generate their own analytic schema's whch can be applied to social media from Twitter. 
 
-What makes DMZ special is the ability for users to use a component called ATLAS-Coding(d) to create their own schema (which belongs to the user) for coding their 
-behavioral and meta data allowing them to contribute to the creation of analytic and other products derived from their data.
+For example if a user is analyzing a Tweet from the United Nations High Commissioner for Human Rights they could create the following schema consisting of five categoires:
+
+1. Media
+    A. No media
+    B. Video(s)
+    C. Image(s)
+    D. Audio(s)
+2. Language
+    A. French
+    B. Arabic
+    C. Japaneese
+    D. English
+3. Topic
+    A. Upcoming Public Event
+    B. Past Public Event
+    C. Human Rights Incident
+    D. Human Rights Legislation
+4. Audience
+    A. General Public
+    B. American Public
+    C. Canadian Government
+    D. French Public
+5. Speaker
+    A. High Commissioner
+    B. Staff
+    C. Other Public Figure
+    D. A Random Cat
+
+Another example might include an analysis of a Tweet by a random individual with a video of a young lady:
+
+1. Gender
+    A. Male
+    B. Female
+    C. Non-Binary
+    D. Other
+2. Hair Color
+    A. Red
+    B. Brown
+    C. Blonde
+    D. Green
+3. Activity
+    A. Walking
+    B. Running
+    C. Sitting Down
+    D. Standing Still
+4. Emotion from Facial Expression
+    A. Distraught
+    B. Happy
+    C. Sad
+    D. Morose
+5. Probable Next Behavior
+    A. Running
+    B. Resting
+    C. Standing Up
+    D. Starting moving
 
 Coding(d) can also be used to code nearly any other information set and further used to train machine learning algorithms to speed up the
 process of analyzing information. This further allows users to quickly generate their own analytic products for sale to advertisers, 
 content creators and other interested people. 
+
+Keep in mind that Coding(d) is just one example of a software package which can be housed under the DMZ framework to which the GNU License is applied.
+The DMZ project is however primarily concerned with software and other technologies which are capable of allowing individuals and
+organizations to commoditize their compute, memory, bandwidth, metadata, behavioral data, carbon offsets, power (in watts), variable caital (labor) 
+and land capital (intellectual and physical property).
