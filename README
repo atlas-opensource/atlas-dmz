@@ -1,18 +1,19 @@
-Distribution (M) Zero or DMZ is a framework which can embody existing opensource and proprietary technologies (or new products).
+Distribution (M) Zero or DMZ is a framework which can embody existing open source and proprietary technologies (or new products).
 
-The DMZ framework is little more than a legal framework (license) which allows individuals or organizations to maintain ownership of resources (described below) which 
-rightfully belong to them.
+The DMZ framework is little more than a legal framework (license) which allows individuals or organizations to maintain ownership of resources (described below) which rightfully belong to them.
 
-Specifically, DMZ allows individuals and organizations to package, license and commoditize their compute, memory,
-bandwidth, metadata, behavioral data, carbon offsets, power (in watts), variable caital (labor) and land capital (intellectual and physical property).
+Specifically, DMZ allows individuals and organizations to package, license and commoditize their compute, memory, bandwidth, metadata, behavioral data, carbon offsets, power (in watts), variable capital (labor) and land capital (intellectual and physical property).
 
 By simply packaging their technology under this project the GNU license framework enables the user to allow or deny the sale of meta and behavioral data 
 (and other resources which belong to the user) to  vendors of the user's choice.
 
-As an example, another open source project called Coding(d) can be added to this project. Coding(d) can be found here: https://github.com/atlas-opensource/atlas-codingd.
-A user can then use Coding(d) to generate their own analytic schema's whch can be applied to social media from Twitter. 
+As an example, another open source project called Coding(d) can be added to this project. Coding(d) can be found here: 
 
-For example if a user is analyzing a Tweet from the United Nations High Commissioner for Human Rights they could create the following schema consisting of five categoires:
+https://github.com/atlas-opensource/atlas-codingd.
+
+A user can then use Coding(d) to generate their own analytic schemas which can be applied to social media from Twitter. 
+
+For example if a user is analyzing a Tweet from the United Nations High Commissioner for Human Rights they could create the following schema consisting of five categories:
 
 1. Media
     A. No media
@@ -22,7 +23,7 @@ For example if a user is analyzing a Tweet from the United Nations High Commissi
 2. Language
     A. French
     B. Arabic
-    C. Japaneese
+    C. Japanese
     D. English
 3. Topic
     A. Upcoming Public Event
@@ -73,18 +74,13 @@ process of analyzing information. This further allows users to quickly generate 
 content creators and other interested parties. 
 
 Keep in mind that Coding(d) is just one example of a software package which can be housed under the DMZ framework, to which the GNU License is applied.
-The DMZ project is however primarily concerned with software and other technologies which are capable of allowing individuals and
-organizations to commoditize their compute, memory, bandwidth, metadata, behavioral data, carbon offsets, power (in watts), variable caital (labor) 
-and land capital (intellectual and physical property).
+The DMZ project is however primarily concerned with software and other technologies which are capable of allowing individuals and organizations to commoditize their compute, memory, bandwidth, metadata, behavioral data, carbon offsets, power (in watts), variable capital (labor) and land capital (intellectual and physical property).
 
-Other examples of technology that the DMZ project is interested in include: in home entertainment technologies which acknowledge the home-owner's 
-intellectual property rights, privacy rights and their participation in the free market. These emerging technologies and others capable of using the 
-electromagnetic spectrum (purchased by the home-owner / renter from the local power company) in the generation of behavioral data (as a
-variable capital output) are a promising means through which individuals can protect their privacy and protect their data.
+Other examples of technology that the DMZ project is interested in include: in home entertainment technologies which acknowledge the home-owner's  intellectual property rights, privacy rights and their participation in the free market. These emerging technologies and others capable of using the electromagnetic spectrum (purchased by the home-owner / renter from the local power company) in the generation of behavioral data (as a variable capital output) are promising means through which individuals can protect their privacy and protect their data.
 
 The simple ability to opt out of collection of your personal information is a fundamental human right. 
 
 The hop skip and jump to choosing who and how your data is distributed is at the very least a right in most Western Democracies. 
 
-When I was growing up, these ideas were common place among technology users: from BBS systems to Eggdrop Bots to paid shell accounts to swap meets:
-your computer, network, bandwidth, power, time, effort and data were your own.
+When I was growing up, these ideas were common place among technology users: from BBS systems to Eggdrop Bots to paid shell accounts to swap meets: your computer, network, bandwidth, power, time, effort and data were your own.
+
